@@ -5,7 +5,7 @@ export function Hero() {
   return (
     <section className="pt-40 pb-28 max-w-6xl mx-auto px-6">
       <h1 className="text-5xl md:text-7xl font-semibold tracking-tight text-gray-900 max-w-3xl mb-8 leading-[1.05]">
-        Building practical software for the AI era.
+        Building focused software for people doing real work.
       </h1>
       <p className="text-xl text-gray-500 max-w-2xl mb-10 leading-relaxed">
         Aureva creates focused software products that solve real problems for
