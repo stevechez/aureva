@@ -3,12 +3,12 @@ import { ArrowRight } from "lucide-react";
 
 export function Hero() {
   return (
-    <section className="pt-32 pb-24 max-w-5xl mx-auto px-6">
-      <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-gray-900 max-w-3xl mb-8 leading-tight">
-        Building focused software for a changing world.
+    <section className="pt-40 pb-28 max-w-6xl mx-auto px-6">
+      <h1 className="text-5xl md:text-7xl font-semibold tracking-tight text-gray-900 max-w-3xl mb-8 leading-[1.05]">
+        Building practical software for the AI era.
       </h1>
-      <p className="text-xl text-gray-600 max-w-2xl mb-10 leading-relaxed">
-        Aureva creates practical AI products that solve real problems for
+      <p className="text-xl text-gray-500 max-w-2xl mb-10 leading-relaxed">
+        Aureva creates focused software products that solve real problems for
         businesses and individuals.
       </p>
       <Link

@@ -5,8 +5,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Aureva | Practical AI Products",
-  description: "Building focused software for the AI era.",
+  title: "Aureva | Practical Software Products",
+  description:
+    "Aureva creates focused software products that solve real problems for businesses and individuals.",
 };
 
 export default function RootLayout({
